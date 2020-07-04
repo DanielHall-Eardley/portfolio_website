@@ -67,7 +67,7 @@ export default {
           appLink: '#',
           githubLink: 'https://github.com/DanielHall-Eardley/ShowHook',
           summary: 'This is a market place application I am building for a client. The purpose of ShowHook is to connect venues, musicians and attendees. Venues and musician can interact with each other to book performances, attendees can search for shows to attend and purchase tickets',
-          imgUrl: 'https://via.placeholder.com/1000',
+          imgUrl: require('@/assets/showhook.png'),
           features: [
             'Act and venue profile creation',
             'Performance booking system with integrated messaging (using Socket.io)',
