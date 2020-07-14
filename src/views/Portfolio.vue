@@ -64,7 +64,7 @@ export default {
         },
         {
           name: 'ShowHook',
-          appLink: '#',
+          appLink: 'https://greve-chocolatine-96579.herokuapp.com/',
           githubLink: 'https://github.com/DanielHall-Eardley/ShowHook',
           summary: 'This is a market place application I am building for a client. The purpose of ShowHook is to connect venues, musicians and attendees. Venues and musician can interact with each other to book performances, attendees can search for shows to attend and purchase tickets',
           imgUrl: require('@/assets/showhook.png'),
@@ -126,7 +126,7 @@ export default {
   }
 
   .container {
-    width: 70%;
+    width: 85%;
     border: var(--bdr-gold);
     border-radius: var(--bdr-radius-sm);
     height: 100%;
